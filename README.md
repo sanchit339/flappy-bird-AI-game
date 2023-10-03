@@ -15,3 +15,13 @@ Creting 3 Objects
 Velocity Concept
     UP & LEFT = -ve velocity
     Right & Bottom = +ve velocity
+
+
+AI Part
+  > Consists of 
+    1. Input (Birds , Top Pipe , Bottom Pipe)
+    2. OutPut (Jump ? )
+    3. Activation Function ( TanH )
+    4. Population Size 100 ( How these birds will get better )
+    5. Fitness Function ( Distance )
+    6. Max Generation ( 30 )
